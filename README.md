@@ -13,7 +13,6 @@
 
 - 📫 How to reach me **sankalppatel38@gmail.com**
 
-- 📄 Know about my experiences [Resume](Resume)
 
 - ⚡ Fun fact **I think I am Enthusiastic, self-motivated and Work-ethical Guy.**
 
