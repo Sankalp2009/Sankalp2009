@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Nodejs/Expressjs/Mongodb**
 
-- 👨‍💻 All of my projects are available at Portfolio ("https://sankalp2009.github.io/")
+- 👨‍💻 All of my projects are available at <a href="https://sankalp2009.github.io/">PortFolio</a>
 
 - 💬 Ask me about **React, Mern, React-Ecosystem**
 
