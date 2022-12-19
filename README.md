@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Nodejs/Expressjs/Mongodb**
 
-- 👨‍💻 All of my projects are available at [https://sankalp2009-github-io-sankalp2009.vercel.app](https://sankalp2009.github.io/)
+- 👨‍💻 All of my projects are available at Portfolio
 
 - 💬 Ask me about **React, Mern, React-Ecosystem**
 
