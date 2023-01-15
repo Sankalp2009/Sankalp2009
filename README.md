@@ -1,32 +1,62 @@
-<h1 align="center">Hi 👋, I'm Sankalp Patel</h1>
-<h3 align="center">A passionate Mern Stack developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/6587ec1b3304a4351679cd4324e47a86ac3e17f878d446bf0e8e6856551d80ba/68747470733a2f2f7468656e696e65686572747a2e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30362f66756c6c2d737461636b2d646576656c6f706d656e742e676966">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sankalp2009&label=Profile%20views&color=0e75b6&style=flat" alt="sankalp2009" /> </p>
-
-- 🔭 I’m currently working on [Ayoa Mind Map Project](https://abandoned-blow-5122.vercel.app/)
-
-- 🌱 I’m currently learning **Nodejs/Expressjs/Mongodb**
-
-- 👨‍💻 All of my projects are available at <a href="https://sankalp2009.github.io/">PortFolio</a>
-
-- 💬 Ask me about **React, Mern, React-Ecosystem**
-
-- 📫 How to reach me **sankalppatel38@gmail.com**
-
-
-- ⚡ Fun fact **I think I am Enthusiastic, self-motivated and Work-ethical Guy.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/sankalp-patel-08b76017b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sankalp-patel" height="30" width="40" /></a>
-<a href="https://hashnode.com/@sankalp668" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@sankalp668" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sankalp2009&show_icons=true&locale=en&layout=compact" alt="sankalp2009" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sankalp2009&show_icons=true&locale=en" alt="sankalp2009" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sankalp2009&" alt="sankalp2009" /></p>
+ <h1 style=" font-family: Poppins; text-align: center;" >Hi 👋, I'm Sankalp Patel</h1>
+    <h3 style=" font-family: Poppins; text-align: center;">A passionate Mern Stack developer from India</h3>
+    <p style="text-align: left; margin-left: 1%;"> <img src="https://komarev.com/ghpvc/?username=sankalp2009&label=Profile%20views&color=0e75b6&style=flat" alt="sankalp2009" /></p>
+    <p style=" font-family: Poppins; text-align: center;"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sankalp2009" alt="sankalp2009" /></a></p>
+    <h3 style=" font-family: Poppins; margin-left: 1%;">💫 About Me:</h3>
+    <div  style="display: flex; align-items: center; gap: 20px; ">
+    <div>
+    🔭 I’m currently working on <a style="text-decoration: none; padding-left: 5px; color: teal;" href="https://abandoned-blow-5122.vercel.app/" target="_blank">Ayoa Mind Map Project</a><br/>
+    🌱 I’m currently learning Mern Stack Technologies<br/>
+    👨‍💻 All of my work available in <a style="text-decoration: none; padding-left: 5px; color: teal;" href="https://sankalp2009.github.io/" target="_blank">PortFolio</a><br/>
+    💬 Ask me about React, React-Ecosystem, Redux, MongoDB Database<br/>
+    📄 Know about my experiences <a style="text-decoration: none; padding-left: 5px; color: teal;" href="https://drive.google.com/file/d/1nG-WuMZcYLKbbO_htiwMn6lNmC3_A5C6/view?usp=share_link">Resume</a><br/>
+    ⚡ Fun fact I think I am an Enthusiastic, self-motivated, and Work-ethical Guy.
+    </div> 
+    <div>
+        <img style="border-radius: 10px;"  src="https://i.gifer.com/origin/46/462c6f5f67c13830cd9fcdbfc7b55ded_w200.webp" alt="Coding" width="250px"  />
+    </div>
+  </div>
+    <h3  style=" font-family: Poppins; margin-left: 1%;"><img src="https://cdn-icons-png.flaticon.com/512/1824/1824898.png" alt="sankalp2009" width="20px" height="20px"/> Connect with me:</h3>
+    <p style="text-align: left;">
+        <a style="text-decoration: none; padding-left: 5px; color: teal;" href="https://linkedin.com/in/sankalp-patel-08b76017b" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sankalp-patel" height="30" width="40" /></a>
+        <a style="text-decoration: none; padding-left: 5px; color: teal;" href="https://hashnode.com/@sankalp668" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@sankalp668" height="30" width="40" /></a>
+        <a style="text-decoration: none; padding-left: 5px; color: teal;" href="https://medium.com/@sankalppatel38" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sankalppatel38" height="30" width="40" /></a>
+        <a style="text-decoration: none; padding-left: 5px; color: teal;" href="https://www.leetcode.com/sankalppatel38" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sankalppatel38" height="30" width="40" /></a>
+    </p>
+    <br />
+    <h3 style=" font-family: Poppins; margin-left: 1%;">💻 Tech Stack:</h3>
+    <div style="display: flex; justify-content: center; align-items: center; gap: 5px;">
+    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white" alt="html5" width="65px" height="35px"/>
+    <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white" alt="css3" width="65px" height="35px"/>
+    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E" alt="javascript" width="65px" height="35px"/>
+    <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=plastic&logo=bootstrap&logoColor=white" alt="bootstrap" width="65px" height="35px"/>
+    <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=plastic&logo=SASS&logoColor=white" alt="sass" width="65px" height="35px"/> 
+    <img src="https://img.shields.io/badge/heroku-%23430098.svg?style=plastic&logo=heroku&logoColor=white" alt="heroku" width="65px" height="35px"/>
+    <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7" alt="typescript" width="65px" height="35px"/>
+    <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white" alt="typescript" width="65px" height="35px"/>
+    <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase" alt="firebase" width="65px" height="35px"/>
+    <img src="https://img.shields.io/badge/NPM-%23000000.svg?style=plastic&logo=npm&logoColor=white" alt="typescript" width="65px" height="35px"/>
+    <img src="https://img.shields.io/badge/webpack-%238DD6F9.svg?style=plastic&logo=webpack&logoColor=black" alt="webpack" width="65px" height="35px"/></p>
+    <img src="https://img.shields.io/badge/Babel-F9DC3e?style=plastic&logo=babel&logoColor=black" alt="babel" width="65px" height="35px"/>
+    <img src="https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB" alt="react" width="65px" height="35px"/>
+    <img src="https://img.shields.io/badge/React_Router-CA4245?style=plastic&logo=react-router&logoColor=white" alt="typescript" width="65px" height="35px"/>
+    <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=plastic&logo=redux&logoColor=white" alt="redux" width="65px" height="35px"/> </a>
+    <img src="https://img.shields.io/badge/chakra-%234ED1C5.svg?style=plastic&logo=chakraui&logoColor=white" alt="typescript" width="65px" height="35px"/>
+    <img src="https://img.shields.io/badge/styled--components-DB7093?style=plastic&logo=styled-components&logoColor=white" alt="typescript" width="65px" height="35px"/>
+    <img src="https://img.shields.io/badge/Framer-black?style=plastic&logo=framer&logoColor=blue" alt="framer" width="65px" height="35px"/>
+    <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB" alt="express" width="65px" height="35px"/>
+    <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white" alt="mongodb" width="65px" height="35px"/>
+    <img src="https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white" alt="postman" width="65px" height="35px"/>
+    <img src="https://img.shields.io/badge/JWT-black?style=plastic&logo=JSON%20web%20tokens" alt="typescript" width="65px" height="35px"/>
+    <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white" alt="typescript" width="65px" height="35px"/>
+</div>
+<h3 style=" font-family: Poppins; text-align: center; font-size: x-large;">📊 GitHub Stats:</h3>
+<div style="display: flex; justify-content: center; align-items: center; gap: 5px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=Sankalp2009&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" alt="mongodb" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sankalp2009&theme=tokyonight&hide_border=true" alt="mongodb" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sankalp2009&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="mongodb" width="auto" height="196px" />
+</div>
+<div style=" font-family: Poppins; text-align: center; font-size: x-large;">
+<h3>✍️ Random Dev Quote</h3>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="mongodb" width="auto" height="196px"/>
+</div>
