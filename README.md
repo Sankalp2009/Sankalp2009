@@ -21,29 +21,29 @@
     <br />
     <h3 style=" font-family: Poppins; margin-left: 1%;">💻 Tech Stack:</h3>
     <div style="display: flex; justify-content: center; align-items: center; gap: 5px;">
-    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white" alt="html5" width="65px" height="35px"/>
-    <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white" alt="css3" width="65px" height="35px"/>
-    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E" alt="javascript" width="65px" height="35px"/>
-    <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=plastic&logo=bootstrap&logoColor=white" alt="bootstrap" width="65px" height="35px"/>
-    <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=plastic&logo=SASS&logoColor=white" alt="sass" width="65px" height="35px"/> 
-    <img src="https://img.shields.io/badge/heroku-%23430098.svg?style=plastic&logo=heroku&logoColor=white" alt="heroku" width="65px" height="35px"/>
-    <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7" alt="typescript" width="65px" height="35px"/>
-    <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white" alt="typescript" width="65px" height="35px"/>
-    <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase" alt="firebase" width="65px" height="35px"/>
-    <img src="https://img.shields.io/badge/NPM-%23000000.svg?style=plastic&logo=npm&logoColor=white" alt="typescript" width="65px" height="35px"/>
-    <img src="https://img.shields.io/badge/webpack-%238DD6F9.svg?style=plastic&logo=webpack&logoColor=black" alt="webpack" width="65px" height="35px"/></p>
-    <img src="https://img.shields.io/badge/Babel-F9DC3e?style=plastic&logo=babel&logoColor=black" alt="babel" width="65px" height="35px"/>
-    <img src="https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB" alt="react" width="65px" height="35px"/>
-    <img src="https://img.shields.io/badge/React_Router-CA4245?style=plastic&logo=react-router&logoColor=white" alt="typescript" width="65px" height="35px"/>
-    <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=plastic&logo=redux&logoColor=white" alt="redux" width="65px" height="35px"/> </a>
-    <img src="https://img.shields.io/badge/chakra-%234ED1C5.svg?style=plastic&logo=chakraui&logoColor=white" alt="typescript" width="65px" height="35px"/>
-    <img src="https://img.shields.io/badge/styled--components-DB7093?style=plastic&logo=styled-components&logoColor=white" alt="typescript" width="65px" height="35px"/>
-    <img src="https://img.shields.io/badge/Framer-black?style=plastic&logo=framer&logoColor=blue" alt="framer" width="65px" height="35px"/>
-    <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB" alt="express" width="65px" height="35px"/>
-    <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white" alt="mongodb" width="65px" height="35px"/>
-    <img src="https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white" alt="postman" width="65px" height="35px"/>
-    <img src="https://img.shields.io/badge/JWT-black?style=plastic&logo=JSON%20web%20tokens" alt="typescript" width="65px" height="35px"/>
-    <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white" alt="typescript" width="65px" height="35px"/>
+    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white" alt="html5" width="80" height="40"/>
+    <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white" alt="css3" width="80" height="40"/>
+    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E" alt="javascript" width="80" height="40"/>
+    <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=plastic&logo=bootstrap&logoColor=white" alt="bootstrap" width="80" height="40"/>
+    <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=plastic&logo=SASS&logoColor=white" alt="sass" width="80" height="40"/> 
+    <img src="https://img.shields.io/badge/heroku-%23430098.svg?style=plastic&logo=heroku&logoColor=white" alt="heroku" width="80" height="40"/>
+    <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7" alt="typescript" width="80" height="40"/>
+    <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white" alt="typescript" width="80" height="40"/>
+    <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase" alt="firebase" width="80" height="40"/>
+    <img src="https://img.shields.io/badge/NPM-%23000000.svg?style=plastic&logo=npm&logoColor=white" alt="typescript" width="80" height="40"/>
+    <img src="https://img.shields.io/badge/webpack-%238DD6F9.svg?style=plastic&logo=webpack&logoColor=black" alt="webpack" width="80" height="40"/></p>
+    <img src="https://img.shields.io/badge/Babel-F9DC3e?style=plastic&logo=babel&logoColor=black" alt="babel" width="80" height="40"/>
+    <img src="https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB" alt="react" width="80" height="40"/>
+    <img src="https://img.shields.io/badge/React_Router-CA4245?style=plastic&logo=react-router&logoColor=white" alt="typescript" width="80" height="40"/>
+    <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=plastic&logo=redux&logoColor=white" alt="redux" width="80" height="40"/> </a>
+    <img src="https://img.shields.io/badge/chakra-%234ED1C5.svg?style=plastic&logo=chakraui&logoColor=white" alt="typescript" width="80" height="40"/>
+    <img src="https://img.shields.io/badge/styled--components-DB7093?style=plastic&logo=styled-components&logoColor=white" alt="typescript" width="80" height="40"/>
+    <img src="https://img.shields.io/badge/Framer-black?style=plastic&logo=framer&logoColor=blue" alt="framer" width="80" height="40"/>
+    <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB" alt="express" width="80" height="40"/>
+    <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white" alt="mongodb" width="80" height="40"/>
+    <img src="https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white" alt="postman" width="80" height="40"/>
+    <img src="https://img.shields.io/badge/JWT-black?style=plastic&logo=JSON%20web%20tokens" alt="typescript" width="80" height="40"/>
+    <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white" alt="typescript" width="80" height="40"/>
 </div>
 <div align="center">
 <h3>📊 GitHub Stats:</h3>
