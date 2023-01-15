@@ -1,4 +1,4 @@
- <h1 align="center" >Hi 👋, I'm Sankalp Patel</h1>
+ ![Header](https://res.cloudinary.com/dn2q6aoex/image/upload/v1673793194/github-header-image_nimfrj.png)
     <h3 align="center">A passionate Mern Stack developer from India</h3>
     <p> <img src="https://komarev.com/ghpvc/?username=sankalp2009&label=Profile%20views&color=0e75b6&style=flat" alt="sankalp2009" /></p>
     <p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sankalp2009" alt="sankalp2009" /></a></p>
