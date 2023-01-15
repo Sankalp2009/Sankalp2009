@@ -1,5 +1,5 @@
  ![Header](https://res.cloudinary.com/dn2q6aoex/image/upload/v1673793194/github-header-image_nimfrj.png)
-    <p> <img src="https://komarev.com/ghpvc/?username=sankalp2009&label=Profile%20views&color=0e75b6&style=flat" alt="sankalp2009" /></p>
+    <p><img src="https://komarev.com/ghpvc/?username=sankalp2009&label=Profile%20views&color=0e75b6&style=flat" alt="sankalp2009" /></p>
     <p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sankalp2009" alt="sankalp2009" /></a></p>
      <img border="2px solid red" align="right" src="https://i.gifer.com/origin/46/462c6f5f67c13830cd9fcdbfc7b55ded_w200.webp" alt="Coding" width="400"  />
     <h3>💫 About Me:</h3>
@@ -49,7 +49,7 @@
 <div display="flex" align="center" gap="20px">
     <img src="https://github-readme-stats.vercel.app/api?username=Sankalp2009&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" alt="mongodb" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sankalp2009&theme=tokyonight&hide_border=true" alt="mongodb" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sankalp2009&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="mongodb" width="auto" height="196px" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sankalp2009&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="mongodb" width="auto" height="196" />
 </div>
 <div align="center">
 <h3>✍️ Random Dev Quote</h3>
