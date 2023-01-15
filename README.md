@@ -45,8 +45,8 @@
     <img src="https://img.shields.io/badge/JWT-black?style=plastic&logo=JSON%20web%20tokens" alt="typescript" width="65px" height="35px"/>
     <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white" alt="typescript" width="65px" height="35px"/>
 </div>
-<h3 align="center">📊 GitHub Stats:</h3>
 <div align="center">
+<h3>📊 GitHub Stats:</h3>
     <img src="https://github-readme-stats.vercel.app/api?username=Sankalp2009&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" alt="mongodb" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sankalp2009&theme=tokyonight&hide_border=true" alt="mongodb" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sankalp2009&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="mongodb" width="auto" height="196" />
