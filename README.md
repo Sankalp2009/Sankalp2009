@@ -1,10 +1,10 @@
- <h1 style=" font-family: Poppins; text-align: center;" >Hi 👋, I'm Sankalp Patel</h1>
-    <h3 style=" font-family: Poppins; text-align: center;">A passionate Mern Stack developer from India</h3>
-    <p style="text-align: left; margin-left: 1%;"> <img src="https://komarev.com/ghpvc/?username=sankalp2009&label=Profile%20views&color=0e75b6&style=flat" alt="sankalp2009" /></p>
-    <p style=" font-family: Poppins; text-align: center;"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sankalp2009" alt="sankalp2009" /></a></p>
-    <h3 style=" font-family: Poppins; margin-left: 1%;">💫 About Me:</h3>
-    <div  style="display: flex; align-items: center; gap: 20px; ">
-    <div>
+ <h1 align="center" >Hi 👋, I'm Sankalp Patel</h1>
+    <h3 align="center">A passionate Mern Stack developer from India</h3>
+    <p> <img src="https://komarev.com/ghpvc/?username=sankalp2009&label=Profile%20views&color=0e75b6&style=flat" alt="sankalp2009" /></p>
+    <p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sankalp2009" alt="sankalp2009" /></a></p>
+     <img border="2px solid red" align="right" src="https://i.gifer.com/origin/46/462c6f5f67c13830cd9fcdbfc7b55ded_w200.webp" alt="Coding" width="400"  />
+    <h3>💫 About Me:</h3>
+    <div align="left">
     🔭 I’m currently working on <a style="text-decoration: none; padding-left: 5px; color: teal;" href="https://abandoned-blow-5122.vercel.app/" target="_blank">Ayoa Mind Map Project</a><br/>
     🌱 I’m currently learning Mern Stack Technologies<br/>
     👨‍💻 All of my work available in <a style="text-decoration: none; padding-left: 5px; color: teal;" href="https://sankalp2009.github.io/" target="_blank">PortFolio</a><br/>
@@ -12,12 +12,8 @@
     📄 Know about my experiences <a style="text-decoration: none; padding-left: 5px; color: teal;" href="https://drive.google.com/file/d/1nG-WuMZcYLKbbO_htiwMn6lNmC3_A5C6/view?usp=share_link">Resume</a><br/>
     ⚡ Fun fact I think I am an Enthusiastic, self-motivated, and Work-ethical Guy.
     </div> 
-    <div>
-        <img style="border-radius: 10px;"  src="https://i.gifer.com/origin/46/462c6f5f67c13830cd9fcdbfc7b55ded_w200.webp" alt="Coding" width="250px"  />
-    </div>
-  </div>
     <h3  style=" font-family: Poppins; margin-left: 1%;"><img src="https://cdn-icons-png.flaticon.com/512/1824/1824898.png" alt="sankalp2009" width="20px" height="20px"/> Connect with me:</h3>
-    <p style="text-align: left;">
+    <p align="left">
         <a style="text-decoration: none; padding-left: 5px; color: teal;" href="https://linkedin.com/in/sankalp-patel-08b76017b" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sankalp-patel" height="30" width="40" /></a>
         <a style="text-decoration: none; padding-left: 5px; color: teal;" href="https://hashnode.com/@sankalp668" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@sankalp668" height="30" width="40" /></a>
         <a style="text-decoration: none; padding-left: 5px; color: teal;" href="https://medium.com/@sankalppatel38" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sankalppatel38" height="30" width="40" /></a>
@@ -50,13 +46,13 @@
     <img src="https://img.shields.io/badge/JWT-black?style=plastic&logo=JSON%20web%20tokens" alt="typescript" width="65px" height="35px"/>
     <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white" alt="typescript" width="65px" height="35px"/>
 </div>
-<h3 style=" font-family: Poppins; text-align: center; font-size: x-large;">📊 GitHub Stats:</h3>
-<div style="display: flex; justify-content: center; align-items: center; gap: 5px;">
+<h3 align="center">📊 GitHub Stats:</h3>
+<div display="flex" align="center" gap="20px">
     <img src="https://github-readme-stats.vercel.app/api?username=Sankalp2009&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" alt="mongodb" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sankalp2009&theme=tokyonight&hide_border=true" alt="mongodb" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sankalp2009&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="mongodb" width="auto" height="196px" />
 </div>
-<div style=" font-family: Poppins; text-align: center; font-size: x-large;">
+<div align="center">
 <h3>✍️ Random Dev Quote</h3>
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="mongodb" width="auto" height="196px"/>
 </div>
