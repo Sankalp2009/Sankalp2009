@@ -22,12 +22,14 @@
 <br>
 🌱 I’m currently learning Mern Stack Technologies<br/>
 👨‍💻 All of my work available in <a style="text-decoration: none; padding-left: 5px; color: teal;" href="https://sankalp2009.github.io/" target="_blank">PortFolio</a><br>
-💬 Ask me about React, React-Ecosystem, Redux, MongoDB Database<br/>
+💬 Ask me about React, React-Ecosystem, Redux, MongoDB Database
+<br>
 📄 Know about my experiences <a style="text-decoration: none; padding-left: 5px; color: teal;" href="https://drive.google.com/file/d/1nG-WuMZcYLKbbO_htiwMn6lNmC3_A5C6/view?usp=share_link">Resume</a>
 <br>
 ⚡ Fun fact I think I am an Enthusiastic, self-motivated, and Work-ethical Guy.
 </div>
 <br>
+
 <h3  style=" font-family: Poppins; margin-left: 1%;"><img src="https://cdn-icons-png.flaticon.com/512/1824/1824898.png" alt="sankalp2009" width="20px" height="20px"/> Connect with me:</h3>
 <p align="left">
 <a style="text-decoration: none; padding-left: 5px; color: teal;" href="https://linkedin.com/in/sankalp-patel-08b76017b" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sankalp-patel" height="30" width="40" /></a>
