@@ -66,10 +66,8 @@
 </div>
 
 <h3 align="center">📊 GitHub Stats:</h3>
-<div align="left">
+<div style="display: flex;">
   <img src="https://github-readme-stats.vercel.app/api?username=Sankalp2009&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" alt="mongodb" />
-</div>
-<div align="right">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sankalp2009&theme=tokyonight&hide_border=true" alt="mongodb" />
 </div>
 <div align="center">
