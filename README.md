@@ -30,7 +30,7 @@
 </div>
 <br>
 
-<h3  style=" font-family: Poppins; margin-left: 1%;"><img src="https://cdn-icons-png.flaticon.com/512/1824/1824898.png" alt="sankalp2009" width="20px" height="20px"/> Connect with me:</h3>
+<h3><img src="https://cdn-icons-png.flaticon.com/512/1824/1824898.png" alt="sankalp2009" width="20px" height="20px"/> Connect with me:</h3>
 <p align="left">
 <a style="text-decoration: none; padding-left: 5px; color: teal;" href="https://linkedin.com/in/sankalp-patel-08b76017b" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sankalp-patel" height="30" width="40" /></a>
 <a style="text-decoration: none; padding-left: 5px; color: teal;" href="https://hashnode.com/@sankalp668" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@sankalp668" height="30" width="40" /></a>
@@ -38,8 +38,8 @@
 <a style="text-decoration: none; padding-left: 5px; color: teal;" href="https://www.leetcode.com/sankalppatel38" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sankalppatel38" height="30" width="40" /></a>
 </p>
 <br />
-<h3 style=" font-family: Poppins; margin-left: 1%;">💻 Tech Stack:</h3>
-<div align="center">
+<h3>💻 Tech Stack:</h3>
+<div align="left">
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white" alt="html5" width="80" height="40"/>
     <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white" alt="css3" width="80" height="40"/>
     <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E" alt="javascript" width="80" height="40"/>
@@ -64,12 +64,11 @@
     <img src="https://img.shields.io/badge/JWT-black?style=plastic&logo=JSON%20web%20tokens" alt="typescript" width="80" height="40"/>
     <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white" alt="typescript" width="80" height="40"/>
 </div>
-<div align="center">
-<h3>📊 GitHub Stats:</h3>
-    <img src="https://github-readme-stats.vercel.app/api?username=Sankalp2009&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" alt="mongodb" />
-<!--     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sankalp2009&theme=tokyonight&hide_border=true" alt="mongodb" /> -->
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sankalp2009&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="mongodb" width="auto" height="196" />
-</div>
+
+<h3 align="center">📊 GitHub Stats:</h3>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Sankalp2009&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" alt="mongodb" />
+<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Sankalp2009&theme=tokyonight&hide_border=true" alt="mongodb" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sankalp2009&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="mongodb" width="auto" height="196" />
 <div align="center">
 <h3>✍️ Random Dev Quote</h3>
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="mongodb" width="auto" height="196px"/>
