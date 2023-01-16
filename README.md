@@ -13,7 +13,7 @@
 <br>
 
 <div>
-<img align="right" src="https://i.gifer.com/origin/46/462c6f5f67c13830cd9fcdbfc7b55ded_w200.webp" alt="Coding" width="300"  />
+<img align="right" src="https://i.gifer.com/origin/46/462c6f5f67c13830cd9fcdbfc7b55ded_w200.webp" alt="Coding" width="350"  />
 </div>
 
 <h3>💫 About Me:</h3>
