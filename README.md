@@ -1,4 +1,5 @@
 ![Profile views](https://komarev.com/ghpvc/?username=sankalp2009&label=Profile%20views&color=0e75b6&style=flat)
+<br><br>
 <a href="https://github.com/Sankalp2009">
 <img src="https://res.cloudinary.com/dn2q6aoex/image/upload/v1673793194/github-header-image_nimfrj.png">
  </a>
@@ -12,7 +13,7 @@
 <br>
 
 <div>
-<img align="right" src="https://i.gifer.com/origin/46/462c6f5f67c13830cd9fcdbfc7b55ded_w200.webp" alt="Coding" width="350"  />
+<img align="right" src="https://i.gifer.com/origin/46/462c6f5f67c13830cd9fcdbfc7b55ded_w200.webp" alt="Coding" width="300"  />
 </div>
 
 <h3>💫 About Me:</h3>
