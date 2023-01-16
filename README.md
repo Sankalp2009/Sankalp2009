@@ -67,8 +67,8 @@
 
 <h3 align="center">📊 GitHub Stats:</h3>
 <div align="center">
-<img align="top" src="https://github-readme-stats.vercel.app/api?username=Sankalp2009&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" alt="mongodb" width="300" />
-<img align="top" src="https://github-readme-streak-stats.herokuapp.com/?user=Sankalp2009&theme=tokyonight&hide_border=true" alt="mongodb" width="300" />
+<img align="top" src="https://github-readme-stats.vercel.app/api?username=Sankalp2009&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" alt="mongodb" width="400" />
+<img align="top" src="https://github-readme-streak-stats.herokuapp.com/?user=Sankalp2009&theme=tokyonight&hide_border=true" alt="mongodb" width="400" />
 </div>
 <br>
 <div align="center">
