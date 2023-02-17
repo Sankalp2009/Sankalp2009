@@ -18,7 +18,7 @@
 
 <h3>💫 About Me:</h3>
 <div align="left">
-🔭 I’m currently working on <a style="text-decoration: none; padding-left: 5px; color: teal;" href="https://abandoned-blow-5122.vercel.app/" target="_blank">Ayoa Mind Map Project</a>
+🔭 I’m currently working on <a style="text-decoration: none; padding-left: 5px; color: teal;" href="https://makeshift-thread-5916-sankalp2009.vercel.app/" target="_blank">Nordstorm Clone Project</a>
 <br>
 🌱 I’m currently learning Mern Stack Technologies<br/>
 👨‍💻 All of my work available in <a style="text-decoration: none; padding-left: 5px; color: teal;" href="https://sankalp2009.github.io/" target="_blank">PortFolio</a><br>
