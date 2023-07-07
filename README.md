@@ -24,7 +24,7 @@
 👨‍💻 All of my work available in <a style="text-decoration: none; padding-left: 5px; color: teal;" href="https://sankalp2009.github.io/" target="_blank">PortFolio</a><br>
 💬 Ask me about React, React-Ecosystem, Redux, MongoDB Database
 <br>
-📄 Know about my experiences <a style="text-decoration: none; padding-left: 5px; color: teal;" href="https://drive.google.com/file/d/1nG-WuMZcYLKbbO_htiwMn6lNmC3_A5C6/view?usp=share_link">Resume</a>
+📄 Know about my experiences <a style="text-decoration: none; padding-left: 5px; color: teal;" href="https://drive.google.com/file/d/1c0dSiczbynoKwz-tV9SGixUSxTvhpW4t/view?usp=sharing">Resume</a>
 <br>
 ⚡ Fun fact I think I am an Enthusiastic, self-motivated, and Work-ethical Guy.
 </div>
