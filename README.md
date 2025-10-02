@@ -22,17 +22,18 @@
 <!-- About Me + Coding GIF -->
 <table>
   <tr>
-    <td width="65%" valign="top">
-      ### 💫 About Me:
-      - 🔭 I’m currently working on [Nordstrom Clone Project](https://makeshift-thread-5916-sankalp2009.vercel.app/)  
-      - 🌱 I’m currently learning **MERN Stack Technologies**  
-      - 👨‍💻 All of my work is available in my [Portfolio](https://sankalp2009.github.io/)  
-      - 💬 Ask me about **React, Redux, MongoDB**  
-      - 📄 Know about my experiences in my [Resume](https://drive.google.com/file/d/1c0dSiczbynoKwz-tV9SGixUSxTvhpW4t/view?usp=sharing)  
-      - ⚡ Fun fact: I think I am an **Enthusiastic, Self-Motivated, and Work-Ethical** guy.  
+    <td width="70%" valign="top">
+     💫 About Me:
+     
+  - 🔭 I’m currently working on [Nordstrom Clone Project](https://makeshift-thread-5916-sankalp2009.vercel.app/)  
+  - 🌱 I’m currently learning **MERN Stack Technologies**  
+  - 👨‍💻 All of my work is available in my [Portfolio](https://sankalp2009.github.io/)
+  - 💬 Ask me about **React, Redux, MongoDB**  
+  - 📄 Know about my experiences in my [Resume](https://drive.google.com/file/d/1c0dSiczbynoKwz-tV9SGixUSxTvhpW4t/view?usp=sharing)  
+  - ⚡ Fun fact: I think I am an **Enthusiastic, Self-Motivated, and Work-Ethical** guy.  
     </td>
     <td width="35%" align="center">
-      <img src="https://media3.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NW13Y3I0cTlyc3R0bDcwMnBjMTgyZmltc3g0NHdtNWJlZGpjeHV5aSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/gDPxwdP6SKFnsWDJ2u/200.webp" 
+      <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmhvMXlmaWF6ZTBrNGlnbDM3OWFsYXl4Z2ExOGM0OXZpZGVqbDZmZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/jBOOXxSJfG8kqMxT11/giphy.webp" 
            alt="Coding" width="250"/>
     </td>
   </tr>
