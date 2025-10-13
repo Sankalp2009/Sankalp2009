@@ -1,5 +1,3 @@
-![👋 Hi, I am Sankalp Patel✌️](https://as2.ftcdn.net/v2/jpg/05/67/40/31/1000_F_567403147_WjV5fqGRjjPUkBOnXaaREKgVjZMC12M7.jpg)
-
 <div id="toc">
   <ul align="center" style="list-style: none">
     <summary>
